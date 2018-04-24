@@ -1,7 +1,7 @@
 # souffle-mode [![Build Status](https://secure.travis-ci.org/gbalats/souffle-mode.png)](http://travis-ci.org/gbalats/souffle-mode)
 
 
-An Emacs mode for LogicBlox Datalog.
+An Emacs mode for the Soufflé Datalog Language.
 
 ### Author
 [George Balatsouras](mailto:gbalats@di.uoa.gr)
