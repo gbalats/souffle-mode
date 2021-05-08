@@ -7,7 +7,7 @@ An Emacs mode for the Soufflé Datalog Language.
 [George Balatsouras](mailto:gbalats@di.uoa.gr)
 
 ### License
-MIT license (see `LICENSE`)
+MIT license (see [LICENSE](LICENSE))
 
 
 Manual Installation
